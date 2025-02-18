@@ -60,6 +60,8 @@ This project focuses on predicting **loan defaults** to optimize **loan approval
 - **Achieved a maximum profit of $2.03 Billion** in validation testing.
 - **High recall** ensures most high-risk loans are correctly classified.
 
+![image](https://github.com/user-attachments/assets/ed19d04e-63ee-40e8-85a0-3c6c6c6691d3)
+
 ## Future Enhancements
 - **Implement deep learning models** for enhanced accuracy.
 
